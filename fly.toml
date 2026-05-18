@@ -1,0 +1,14 @@
+[build]
+
+[env]
+  PORT = "3000"
+
+[[services]]
+
+[checks]
+
+[http_service]
+  internal_port = 3000
+  force_https = false
+  auto_stop_machines = false
+  auto_start_machines = true
