@@ -1,6 +1,6 @@
-# vanta-2.0
+# vanta
 
-the second iteration of vanta — a discord bot built with node.js, containerized with docker.
+a discord bot, built with node.js and docker.
 
 ## stack
 
@@ -9,6 +9,6 @@ node.js 20 · docker
 ## run it
 
 ```
-docker build -t vanta-2-0 .
-docker run vanta-2-0
+docker build -t vanta .
+docker run vanta
 ```
