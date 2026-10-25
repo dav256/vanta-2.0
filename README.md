@@ -1,4 +1,6 @@
-<h1><img src="icon.svg" width="44" align="middle" alt="Vanta logo"> Vanta</h1>
+<img src="icon.svg" width="72" alt="Vanta logo">
+
+# Vanta
 
 ![Node.js 20](https://img.shields.io/badge/node-20-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Docker](https://img.shields.io/badge/docker-ready-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Discord](https://img.shields.io/badge/platform-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white) ![last commit](https://img.shields.io/github/last-commit/dav256/vanta-2.0?style=for-the-badge) ![GitHub stars](https://img.shields.io/github/stars/dav256/vanta-2.0?style=for-the-badge&logo=github)
 
